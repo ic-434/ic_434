@@ -4,6 +4,6 @@ import './header.tsx'
 
 export function Header() { 
     return ( 
-        <div className="header">header</div>
+        <div className="header">header list</div>
     )
 }
